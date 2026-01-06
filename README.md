@@ -19,7 +19,7 @@ Digital twins are modeled to represent the state of any physical system; they sh
 1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
 
    *Note: GitHub repo for the code will be made available once the article is published.*
-3. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
+2. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
 <ins>**Framework for rapid qualification of additively manufactured parts**</ins>
 
