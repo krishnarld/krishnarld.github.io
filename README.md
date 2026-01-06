@@ -3,12 +3,12 @@
 I am a Multidisciplinary Researcher specializing in the intersection of Digital Twin frameworks, AI/ML, and Computational Mechanics. My current research work focuses on developing ML algorithms for real-time monitoring of physical systems and reducing training cost. My background includes extensive research into the mechanical abuse characterization of EV batteries, with the goal of engineering advanced safety systems using metamaterials to protect critical energy storage components.
 
 ## Education
-* **PhD** in *Aerospace Engineering* - Indian Institute of Technolgoy Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
-* **Master of Technology** in *Mechanical Engineering* - Indian Institute of Technology Roorke, Roorkee, India
+* **PhD** in *Aerospace Engineering* - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
+* **Master of Technology** in *Mechanical Engineering* - Indian Institute of Technology Roorkee, Roorkee, India
 * **Bachelors of Engineering** in *Production Engineering* - PSG College of Technology, Coimbatore, India
 
 
-## Brief Description of Major Projects in Chronological order
+## Brief Description of Major Projects in Chronological Order
 Below are descriptions of the major research projects I have worked on, including associated publications
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
@@ -17,8 +17,8 @@ Digital twins are modeled to represent the state of any physical system; they sh
 
 <ins>Outputs from this work:</ins>
 1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
-   *Note: Github repo for the code will be made available once the article is published.*
-3. **Derivative informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
+   *Note: GitHub repo for the code will be made available once the article is published.*
+3. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
 <ins>**Framework for rapid qualification of additively manufactured parts**</ins>
 
@@ -27,16 +27,20 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 
-<ins>**Mechanical abuse of EV batteries**</ins>
+<ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
+
+In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
 2. **Impact response of prismatic Li-ion battery cells** \| *International Journal of Impact Engineering* \|2022 \| [Link to the article](https://doi.org/10.1016/j.ijimpeng.2022.104352)
 3. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
-5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceeedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
+5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
 
-<ins>**Energy absorption capabilities of auxetic metamaterials**</ins>
+<ins>**Energy absorption of auxetic metamaterials**</ins>
+
+This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work proposes a high-performance hybrid tube concept and validates a fracture locus model for 3D-printed Al10SiMg, enabling precise prediction of structural deformation under dynamic loads.
 
 <ins>Outputs from this work:</ins>
 1. Patent - **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
@@ -51,7 +55,9 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 <ins> **Other projects**</ins>
 
-<ins>Outputs from other project:</ins>
+Apart from the above projects, I have worked on other projects. 1) Designing RFID sensors for strain sensing of launch vehicle fuel tanks, 2) Investigating the effect of strain rate on tensile strength of Ultrafine-grained metals, etc.
+
+<ins>Outputs from these works:</ins>
 1. Patent - **Reusable passive RFID strain sensor for structural health monitoring** \| *Granted* \| IN 449495
 2. **A review of artificial intelligence (AI)-based applications to nanocomposites** \| *Composites Part A: Applied Science and Manufacturing* \| 2025 \| [Link to the article](https://doi.org/10.1016/j.compositesa.2025.109027)
 3. **Reusable passive wireless RFID sensor for strain measurement on metals** \| *IEEE Sensors Journal* \| 2018 \| [Link to the article](https://doi.org/10.1109/JSEN.2018.2831903)
@@ -60,9 +66,9 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 
 ## Awards and Honors
-1. **Institute Research Award**, *Indian Insitute of Technology Madras*, 2021
+1. **Institute Research Award**, *Indian Institute of Technology Madras*, 2021
 2. **Best Paper Award**, *International conference (IMICPW)*, 2019
-3. **Best Poster Award**, *Conference and Exihibition on Non-Destructive Evaluation*, 2017
+3. **Best Poster Award**, *Conference and Exhibition on Non-Destructive Evaluation*, 2017
    
 
 ## 📫 Connect with Me
