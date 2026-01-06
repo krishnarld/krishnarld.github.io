@@ -8,7 +8,7 @@ I am a multidisciplinary Researcher specializing in AI/ML, Digital Twins, Comput
 * **Bachelors of Engineering** in *Production Engineering* - PSG College of Technology, Coimbatore, India
 
 
-## Brief Description of Major Projects in Chronological Order
+## Brief Description of Major Projects in Reverse Chronological Order
 Below are descriptions of the major research projects I have worked on, including associated publications
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
