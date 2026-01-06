@@ -12,13 +12,17 @@ I am a Multidisciplinary Researcher specializing in the intersection of Digital 
 Below are descriptions of the major research projects I have worked on, including associated publications
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
-Digital twins are modeled to represent state of any physical system, they should be accurate, rapid, and has the ability to evolve together with physical system. In this work, higher-order derivatives were incorporated to obtain accurate model but it comes at the expense of increased dataset set. Additionally, new data obtained from the physical asset needs to incorporated in the model without extensive re-training. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validat the method on an aerospace fatigue crack growth, the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
+
+Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin. In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 <ins>Outputs from this work:</ins>
 1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
-2. **Derivative informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
+   *Note: Github repo for the code will be made available once the article is published.*
+3. **Derivative informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
-<ins>**Structure-property framework for rapid qualification of additively manufactured parts**</ins>
+<ins>**Framework for rapid qualification of additively manufactured parts**</ins>
+
+Qualifying metal additively manufactured (AM) parts is complicated by process-induced microstructural variations that lead to uneven fatigue performance. This work leverages process-structure modeling to estimate location-specific fatigue life across 3D AM domains. By analyzing nonlocal-averaged Fatigue Indicator Parameters (FIPs) over thousands of loading cycles, we determine the cycle count at which critical thresholds are reached, enabling accurate life prediction for complex AM components.
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
