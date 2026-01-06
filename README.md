@@ -8,21 +8,22 @@ I am a Multidisciplinary Researcher specializing in the intersection of Digital 
 * **Bachelors of Engineering** in *Production Engineering* - PSG College of Technology, Coimbatore, India
 
 
-## Detailed Description of Major Projects in Chronological order
-I have provided a short description of each major research projects I have worked on along with publications from it
+## Brief Description of Major Projects in Chronological order
+Below are descriptions of the major research projects I have worked on, including associated publications
 
-*. <ins>**Derivative-informed dynamic ML for digital twin framework**</ins>
+<ins>**Derivative-informed ML and its application to digital twin framework**</ins>
+Digital twins are modeled to represent state of any physical system, they should be accurate, rapid, and has the ability to evolve together with physical system. In this work, higher-order derivatives were incorporated to obtain accurate model but it comes at the expense of increased dataset set. Additionally, new data obtained from the physical asset needs to incorporated in the model without extensive re-training. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validat the method on an aerospace fatigue crack growth, the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 <ins>Outputs from this work:</ins>
 1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
 2. **Derivative informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
-*. <ins>**Structure-property framework for rapid qualification of additively manufactured parts**</ins>
+<ins>**Structure-property framework for rapid qualification of additively manufactured parts**</ins>
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 
-*. <ins>**Mechanical abuse of EV batteries**</ins>
+<ins>**Mechanical abuse of EV batteries**</ins>
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
@@ -31,7 +32,7 @@ I have provided a short description of each major research projects I have worke
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
 5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceeedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
 
-*. <ins>**Energy absorption capabilities of auxetic metamaterials**</ins>
+<ins>**Energy absorption capabilities of auxetic metamaterials**</ins>
 
 <ins>Outputs from this work:</ins>
 1. Patent - **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
@@ -44,7 +45,7 @@ I have provided a short description of each major research projects I have worke
 8. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
 
 
-* <ins> **Other projects**</ins>
+<ins> **Other projects**</ins>
 
 <ins>Outputs from other project:</ins>
 1. Patent - **Reusable passive RFID strain sensor for structural health monitoring** \| *Granted* \| IN 449495
