@@ -30,7 +30,6 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 ![PSP](https://github.com/user-attachments/assets/b4bd7548-4f80-4ca9-89d9-19f2799665f0)
 
-
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 
@@ -38,8 +37,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
 
-![x_z_slow_deformation](https://github.com/user-attachments/assets/6b06fba7-eb2c-4bc1-ae7f-40f8cada3a9f)
-
+![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
