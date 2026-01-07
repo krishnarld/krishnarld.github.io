@@ -88,5 +88,4 @@ Apart from the above projects, I have worked on other projects. 1) Designing RFI
 
 ## 📫 Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/krishnaprasath17/
-<!-- * **Portfolio Site:** [Link to your username.github.io] -->
-* **Email:** krishnaprasath17@gmail.com
+
