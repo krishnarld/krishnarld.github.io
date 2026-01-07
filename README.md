@@ -15,6 +15,9 @@ Below are descriptions of the major research projects I have worked on, includin
 
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin. In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
+<img width="2670" height="1410" alt="DT" src="https://github.com/user-attachments/assets/af3b1c5b-b196-4398-bd59-c26d083edb0a" />
+
+
 <ins>Outputs from this work:</ins>
 1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
 
@@ -24,6 +27,9 @@ Digital twins are modeled to represent the state of any physical system; they sh
 <ins>**Framework for rapid qualification of additively manufactured parts**</ins>
 
 Qualifying metal additively manufactured (AM) parts is complicated by process-induced microstructural variations that lead to uneven fatigue performance. This work leverages process-structure modeling to estimate location-specific fatigue life across 3D AM domains. By analyzing nonlocal-averaged Fatigue Indicator Parameters (FIPs) over thousands of loading cycles, we determine the cycle count at which critical thresholds are reached, enabling accurate life prediction for complex AM components.
+
+![PSP](https://github.com/user-attachments/assets/b4bd7548-4f80-4ca9-89d9-19f2799665f0)
+
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
