@@ -4,6 +4,7 @@ A true Digital Twin must accurately represent the current state of a physical sy
 This project addresses that bottleneck. I developed a novel "streaming sparse Cholesky method" that allows Gaussian Process surrogates to ingest complex, derivative-informed data in real-time without requiring extensive re-training.
 
 **Contribution**
+
 My approach utilizes derivative-informed Gaussian Process (GP) surrogates to ensure high fidelity to the physical physics. To overcome the computational expense of high-dimensional data, I implemented a streaming sparse approximation based on Cholesky factorization.
 Key features of this approach:
 •	Physics-Informed Accuracy: Incorporates higher-order derivatives for precise modeling of systems.
@@ -12,5 +13,6 @@ Key features of this approach:
 
 
 **Impact and Application**
+
 This method provides a robust and efficient solution for continuous structural health monitoring (SHM) and predictive maintenance.
 We validated this approach by modeling aerospace fatigue crack growth. The results demonstrated that this streaming method outperforms traditional static methods, providing accurate, evolving predictions essential for ensuring the safety and reliability of critical infrastructure.
