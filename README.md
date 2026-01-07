@@ -89,5 +89,5 @@ Apart from the above projects, I have worked on other projects. 1) Designing RFI
    
 
 ## 📫 Connect with Me
-* **LinkedIn:** https://www.linkedin.com/in/krishnaprasath17/
+* **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)** 
 
