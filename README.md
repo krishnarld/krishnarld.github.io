@@ -18,7 +18,7 @@ Digital twins are modeled to represent the state of any physical system; they sh
 <img width="2599" height="650" alt="DT" src="https://github.com/user-attachments/assets/b4440133-83b8-4061-8072-7ad34fda332e" />
 
 
-Illustration of Digital Twin (Image generated with the help of Gen AI)
+Figure: Illustration of Digital Twin (Image generated with the help of Gen AI)
 
 
 <ins>Outputs from this work:</ins>
@@ -33,7 +33,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 ![PSP](https://github.com/user-attachments/assets/b4bd7548-4f80-4ca9-89d9-19f2799665f0)
 
-Location specific fatigue life of additively manufactured metal
+Figure: Location specific fatigue life of additively manufactured metal
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
@@ -44,7 +44,7 @@ In this work, we investigate the crash safety of Li-ion battery modules through 
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
-Mechanical abuse investigation of battery module
+Figure: Mechanical abuse investigation of battery module
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
