@@ -13,12 +13,14 @@ Below are descriptions of the major research projects I have worked on, includin
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
-Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin. In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
+Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 1). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 <img width="2599" height="450" alt="DT" src="https://github.com/user-attachments/assets/b4440133-83b8-4061-8072-7ad34fda332e" />
 
 
-Figure: Illustration of Digital Twin (Image generated with the help of Gen AI)
+Figure 1: Illustration of Digital Twin (Image generated with the help of Gen AI)
+
+Figure 2: Illustration of dynamic update of sparse GP matrix that eliminates the need to full re-training whenever new data becomes available from physical twin
 
 
 <ins>Outputs from this work:</ins>
@@ -33,7 +35,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 
 ![PSP](https://github.com/user-attachments/assets/b4bd7548-4f80-4ca9-89d9-19f2799665f0)
 
-Figure: Location specific fatigue life of additively manufactured metal
+Figure 2: Location specific fatigue life of additively manufactured metal
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
@@ -44,7 +46,7 @@ In this work, we investigate the crash safety of Li-ion battery modules through 
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
-Figure: Mechanical abuse investigation of battery module
+Figure 3: Mechanical abuse investigation of battery module
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
