@@ -15,7 +15,7 @@ Below are descriptions of the major research projects I have worked on, includin
 
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin. In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
-<img width="2670" height="2000" alt="DT" src="https://github.com/user-attachments/assets/af3b1c5b-b196-4398-bd59-c26d083edb0a" />
+<img width="2670" height="1335" alt="DT" src="https://github.com/user-attachments/assets/af3b1c5b-b196-4398-bd59-c26d083edb0a" />
 
 
 <ins>Outputs from this work:</ins>
