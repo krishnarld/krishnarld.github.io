@@ -15,7 +15,7 @@ Below are descriptions of the major research projects I have worked on, includin
 
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin. In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset. Additionally, to adapt to a specific physical twin, new data obtained from the physical asset must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available. We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
-<img width="2670" height="500" alt="DT" src="https://github.com/user-attachments/assets/af3b1c5b-b196-4398-bd59-c26d083edb0a" />
+<img width="2670" height="650" alt="DT" src="https://github.com/user-attachments/assets/af3b1c5b-b196-4398-bd59-c26d083edb0a" />
 
 
 <ins>Outputs from this work:</ins>
@@ -37,6 +37,9 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 <ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
 
 In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
+
+![x_z_slow_deformation](https://github.com/user-attachments/assets/6b06fba7-eb2c-4bc1-ae7f-40f8cada3a9f)
+
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
