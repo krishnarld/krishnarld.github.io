@@ -39,6 +39,7 @@ Figure 2: Location specific fatigue life of additively manufactured metal (Image
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
+2. Conference presentation at **USNCCM 2025 and TMS 2024**
 
 <ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
 
