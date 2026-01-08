@@ -19,7 +19,7 @@ Digital twins are modeled to represent the state of any physical system; they sh
 ![DT](https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa)
 
 
-Figure 1: Illustration of Dynamic Digital Twin workflow (Image generated with the help of Gen AI)
+Figure 1: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
 
 
 <ins>Outputs from this work:</ins>
@@ -35,7 +35,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 ![CP](https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18)
 
 
-Figure 2: Location specific fatigue life of additively manufactured metal (Image generated with the help of Gen AI)
+Figure 2: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
