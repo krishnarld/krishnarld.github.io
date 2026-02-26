@@ -1,6 +1,7 @@
 # Postdoctoral researcher, University of Utah, Salt Lake City, UT.
 
-I am a multidisciplinary Researcher specializing in AI/ML, Digital Twins, Computational Mechanics, and Additive Manufacturing. My current research focuses on developing cost-effective ML algorithms for real-time monitoring of physical systems. Previously, I established frameworks for rapid Additive Manufacturing qualification and engineered metamaterial-based safety systems for EV batteries.. 
+I am a multidisciplinary Researcher specializing in Digital Twins, Computational Mechanics, Battery Safety analysis, Experimental testing, and AI/ML. My work integrates experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with numerical analysis to design advanced safety systems for critical energy storage. Also, I develop ML algorithms and Digital Twin frameworks for real-time health monitoring of physical assets.
+
 
 ## Education
 * **PhD** in *Aerospace Engineering* - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
