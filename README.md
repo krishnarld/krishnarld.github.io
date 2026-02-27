@@ -13,9 +13,9 @@ I am a multidisciplinary Researcher specializing in Digital Twins, Computational
 Below are descriptions of the major research projects I have worked on, including associated publications
 
 
-<ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
+<ins>**Enhancing EV Battery Safety via Mechanical Testing, FEA analysis, and Machine Learning**</ins>
 
-In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
+This research tackles the critical challenge of Li-ion battery safety by merging experimental mechanics, high-fidelity FE simulations, and machine learning. By subjecting prismatic cells and jellyrolls to diverse impact conditions, we uncover the hidden energy-absorption roles of internal components. These findings power an AI-driven framework that optimizes protective sandwich structures, significantly advancing the crashworthiness and reliability of next-generation electric vehicles.
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
