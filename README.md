@@ -4,13 +4,49 @@ I am a multidisciplinary Researcher specializing in Digital Twins, Computational
 
 
 ## Education
-* **PhD** in *Aerospace Engineering* - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
-* **Master of Technology** in *Mechanical Engineering* - Indian Institute of Technology Roorkee, Roorkee, India
-* **Bachelors of Engineering** in *Production Engineering* - PSG College of Technology, Coimbatore, India
+* **PhD** - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
+* **Master of Technology** - Indian Institute of Technology Roorkee, Roorkee, India
+* **Bachelors of Engineering** - PSG College of Technology, Coimbatore, India
 
 
-## Below are brief descriptions of my research projects, listed in reverse chronological order
+## Below are brief descriptions of my research projects
 Below are descriptions of the major research projects I have worked on, including associated publications
+
+
+<ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
+
+In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
+
+![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
+
+Figure 3: Mechanical abuse investigation of battery module
+
+<ins>Outputs from this work:</ins>
+1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
+2. **Impact response of prismatic Li-ion battery cells** \| *International Journal of Impact Engineering* \|2022 \| [Link to the article](https://doi.org/10.1016/j.ijimpeng.2022.104352)
+3. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
+4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
+5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
+
+<ins>**Energy absorption of auxetic metamaterials**</ins>
+
+This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work proposes a high-performance hybrid tube concept and validates a fracture locus model for 3D-printed Al10SiMg, enabling precise prediction of structural deformation under dynamic loads.
+
+![E_V](https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e)
+
+![Sim](https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001)
+
+
+
+<ins>Outputs from this work:</ins>
+1. Patent - **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
+2. **Fracture locus of additively manufactured AlSi10Mg** \| *Thin-Walled Structures* \| 2023 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.110460)
+3. **Mechanical response of a novel hybrid tube composed of an auxetic outer layer** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2021.108649)
+4. **Stiffened star-shaped auxetic structure with tri-directional symmetry** \| *Composite Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2021.114773)
+5. **Quasi-static compression performance of material extrusion enabled re-entrant diamond auxetic metamaterial: Fabrication, tuning geometrical parameters, and fiber reinforcements** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.109550)
+6. **Numerical study of a re-entrant diamond structure under dynamic compression** \| *IOP Conference Series: Materials Science and Engineering* \| 2021 \| [Link to the article](https://iopscience.iop.org/article/10.1088/1757-899X/1067/1/012109/meta)
+7. **Quasi-static and dynamic compression behaviors of a novel auxetic structure** \| *Composite Structures* \|2020 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2020.112853)
+8. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
@@ -42,34 +78,6 @@ Figure 2: Location specific fatigue life of additively manufactured metal (Note:
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 2. Conference presentation at **USNCCM 2025 and TMS 2024**
 
-<ins>**Enhancing EV Battery Safety via Mechanical Testing and Machine Learning**</ins>
-
-In this work, we investigate the crash safety of Li-ion battery modules through a combination of mechanical experiments, high-fidelity finite element (FE) simulations, and machine learning. By testing prismatic cells and jellyrolls under various static and dynamic impact conditions, the research identifies critical damage behaviors and the specific energy absorption roles of different structural components. These insights are integrated into an AI-driven design framework to optimize protective sandwich structures, ultimately enhancing the crashworthiness and reliability of electric vehicle battery systems
-
-![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
-
-Figure 3: Mechanical abuse investigation of battery module
-
-<ins>Outputs from this work:</ins>
-1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
-2. **Impact response of prismatic Li-ion battery cells** \| *International Journal of Impact Engineering* \|2022 \| [Link to the article](https://doi.org/10.1016/j.ijimpeng.2022.104352)
-3. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
-4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
-5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
-
-<ins>**Energy absorption of auxetic metamaterials**</ins>
-
-This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work proposes a high-performance hybrid tube concept and validates a fracture locus model for 3D-printed Al10SiMg, enabling precise prediction of structural deformation under dynamic loads.
-
-<ins>Outputs from this work:</ins>
-1. Patent - **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
-2. **Fracture locus of additively manufactured AlSi10Mg** \| *Thin-Walled Structures* \| 2023 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.110460)
-3. **Mechanical response of a novel hybrid tube composed of an auxetic outer layer** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2021.108649)
-4. **Stiffened star-shaped auxetic structure with tri-directional symmetry** \| *Composite Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2021.114773)
-5. **Quasi-static compression performance of material extrusion enabled re-entrant diamond auxetic metamaterial: Fabrication, tuning geometrical parameters, and fiber reinforcements** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.109550)
-6. **Numerical study of a re-entrant diamond structure under dynamic compression** \| *IOP Conference Series: Materials Science and Engineering* \| 2021 \| [Link to the article](https://iopscience.iop.org/article/10.1088/1757-899X/1067/1/012109/meta)
-7. **Quasi-static and dynamic compression behaviors of a novel auxetic structure** \| *Composite Structures* \|2020 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2020.112853)
-8. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
 
 
 <ins> **Other projects**</ins>
