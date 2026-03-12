@@ -134,9 +134,7 @@ Location specific fatigue life of additively manufactured metal (Note: Purpose o
 1. **Reusable passive RFID strain sensor for structural health monitoring** \| *Granted* \| IN 449495
 2. **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
 
-<ins> **Publication**</ins>
-
-<ins> **Published**</ins>
+<ins> **Published articles**</ins>
 
 1. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \|2026 \|[Link to the article](https://doi.org/10.1016/j.cma.2026.118789)
 2. **A review of artificial intelligence (AI)-based applications to nanocomposites** \| *Composites Part A: Applied Science and Manufacturing* \| 2025 \| [Link to the article](https://doi.org/10.1016/j.compositesa.2025.109027)
