@@ -8,11 +8,22 @@ I am a mechanical engineer specializing in Computational Mechanics, Battery Safe
 * **Bachelors of Engineering** - PSG College of Technology, Coimbatore, India
 
 ## 📫 Connect with Me
-* **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)** 
+* **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)**
+
+## Navigation
+
+- [Battery Safety](#battery-safety)
+- [Composite Structure](#composite-structure)
+- [Metamaterials](#metamaterials)
+- [Digital Twins](#digital-twins)
+- [Material Design](#material-design)
+- [Publications](#publications)
+
 
 ## Below are brief descriptions of my research projects
 Below are descriptions of the major research projects I have worked on, including associated publications
 
+## Battery Safety
 <ins>**Enhancing EV Battery Safety via Mechanical Testing, FEA analysis, and Machine Learning**</ins>
 
 This work investigates Li-ion battery safety by combining mechanical testing, high-fidelity finite element simulations (structural and multiphysics), and machine learning. Based on the experimental and FEA analyis of battery module, we quantify the energy-absorption behavior of individual components. The results were used to the design a protective sandwich structures to improve crashworthiness and structural reliability in next-generation electric vehicles.
@@ -53,6 +64,7 @@ Below animation shows the impact on pouch battery with a spherical ball, replica
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
 5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
 
+## Composite Safety
 <ins>**Dynamic loading of composite wheel**</ins>
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
@@ -74,7 +86,7 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 
 
 
-
+## Metamaterials
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
 This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work focuses on high-performance hybrid tube concept and developing fracture locus model for 3D-printed Al10SiMg for enabling precise prediction of structural deformation under dynamic loads.
@@ -109,6 +121,8 @@ This research advances the design of additively manufactured auxetic structures,
 7. **Quasi-static and dynamic compression behaviors of a novel auxetic structure** \| *Composite Structures* \|2020 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2020.112853)
 8. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
 
+
+## Digital Twins
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 2). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
@@ -130,6 +144,7 @@ Figure 2: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the im
    *Note: GitHub repo for the code will be made available once the article is published.*
 2. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
+## Material Design
 <ins>**Framework for rapid qualification of additively manufactured parts**</ins>
 
 Qualifying metal additively manufactured (AM) parts is complicated by process-induced microstructural variations that lead to uneven fatigue performance. This work leverages process-structure modeling to estimate location-specific fatigue life across 3D AM domains. By analyzing nonlocal-averaged Fatigue Indicator Parameters (FIPs) over thousands of loading cycles, we determine the cycle count at which critical thresholds are reached, enabling accurate life prediction for complex AM components.
