@@ -1,23 +1,26 @@
 # Postdoctoral researcher, University of Utah, Salt Lake City, UT.
 
-I am a multidisciplinary Researcher specializing in Digital Twins, Computational Mechanics, Battery Safety analysis, Experimental testing, and AI/ML. My work integrates experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with numerical analysis to design advanced safety systems for critical energy storage. Also, I develop ML algorithms and Digital Twin frameworks for real-time health monitoring of physical assets.
-
+I am a mechanical engineer specializing in Computational Mechanics, Battery Safety design, Experimental testing, and Digital Twins. My work integrates experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with numerical analysis to design advanced safety systems for critical safety system. Also, I develop ML algorithms and Digital Twin frameworks for real-time health monitoring of physical assets.
 
 ## Education
 * **PhD** - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
 * **Master of Technology** - Indian Institute of Technology Roorkee, Roorkee, India
 * **Bachelors of Engineering** - PSG College of Technology, Coimbatore, India
 
+## 📫 Connect with Me
+* **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)** 
 
 ## Below are brief descriptions of my research projects
 Below are descriptions of the major research projects I have worked on, including associated publications
 
-
 <ins>**Enhancing EV Battery Safety via Mechanical Testing, FEA analysis, and Machine Learning**</ins>
 
-This research tackles the critical challenge of Li-ion battery safety by merging experimental mechanics, high-fidelity FE simulations, and machine learning. By subjecting prismatic cells and jellyrolls to diverse impact conditions, we uncover the hidden energy-absorption roles of individual components. These findings help design and optimizes a protective sandwich structures, significantly advancing the crashworthiness and reliability of next-generation electric vehicles. 
+This work investigates Li-ion battery safety by combining mechanical testing, high-fidelity finite element simulations (structural and multiphysics), and machine learning. Based on the experimental and FEA analyis of battery module, we quantify the energy-absorption behavior of individual components. The results were used to the design a protective sandwich structures to improve crashworthiness and structural reliability in next-generation electric vehicles.
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="600">
+</p>
 
 Mechanical abuse investigation of battery module
 
@@ -121,7 +124,4 @@ Apart from the above projects, I have worked on other projects. 1) Designing RFI
 2. **Best Paper Award**, *International conference (IMICPW)*, 2019
 3. **Best Poster Award**, *Conference and Exhibition on Non-Destructive Evaluation*, 2017
    
-
-## 📫 Connect with Me
-* **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)** 
 
