@@ -84,8 +84,8 @@ This research advances the design of additively manufactured auxetic structures,
 <!-- ![Sim](https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="500">
-  <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="500">
+  <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="450">
+  <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="450">
 </p>
 
 
@@ -94,8 +94,8 @@ This research advances the design of additively manufactured auxetic structures,
 <!-- ![tube_sim](https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="500">
-  <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="500">
+  <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="450">
+  <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="450">
 </p>
 
 
