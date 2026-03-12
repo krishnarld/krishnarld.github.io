@@ -64,7 +64,10 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 <!-- ![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="300">
+  <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="500">
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="500">
   <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="500">
 </p>
