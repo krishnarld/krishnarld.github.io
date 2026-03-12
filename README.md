@@ -19,7 +19,7 @@ This research tackles the critical challenge of Li-ion battery safety by merging
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
-Figure 3: Mechanical abuse investigation of battery module
+Figure 1: Mechanical abuse investigation of battery module
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
@@ -27,6 +27,18 @@ Figure 3: Mechanical abuse investigation of battery module
 3. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
 5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
+
+<ins>**Energy absorption of auxetic metamaterials**</ins>
+
+This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
+
+![Wheel](https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f)
+
+![Wheel](https://github.com/user-attachments/assets/b34e0e81-9629-4957-807a-e912b6d738cd) 
+
+![Wheel1](https://github.com/user-attachments/assets/c35f9af4-f225-4381-af53-f95f6dd89d55)
+
+
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
@@ -53,13 +65,13 @@ This research advances the design of additively manufactured auxetic structures,
 
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
-Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 1). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
+Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 2). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 
 ![DT](https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa)
 
 
-Figure 1: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
+Figure 2: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
 
 
 <ins>Outputs from this work:</ins>
@@ -75,7 +87,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 ![CP](https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18)
 
 
-Figure 2: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
+Figure 3: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
 
 <ins>Outputs from this work:</ins>
 1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
