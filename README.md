@@ -30,7 +30,7 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 <!-- ![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="300">
+  <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="450">
 </p>
 
 <p align="center">
