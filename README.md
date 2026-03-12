@@ -20,7 +20,7 @@ This work investigates Li-ion battery safety by combining mechanical testing, hi
 <!-- ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)> -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="600">
+  <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="450">
 </p>
 
 Mechanical abuse investigation of battery module
@@ -68,8 +68,8 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="500">
-  <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="500">
+  <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
+  <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
 </p>
 
 
