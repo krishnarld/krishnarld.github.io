@@ -135,7 +135,9 @@ Location specific fatigue life of additively manufactured metal (Note: Purpose o
 2. **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
 
 <ins> **Publication**</ins>
+
 <ins> Published</ins>
+
 1. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \|2026 \|[Link to the article](https://doi.org/10.1016/j.cma.2026.118789)
 2. **A review of artificial intelligence (AI)-based applications to nanocomposites** \| *Composites Part A: Applied Science and Manufacturing* \| 2025 \| [Link to the article](https://doi.org/10.1016/j.compositesa.2025.109027)
 3. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
@@ -155,6 +157,7 @@ Location specific fatigue life of additively manufactured metal (Note: Purpose o
 17. **Effect of strain rate on tensile and fracture behavior of ultrafine-grained Al6061 processed through cryorolling and warm rolling** \| *Materials Today: Proceedings* \| 2018 \| [Link to the article](https://doi.org/10.1016/j.matpr.2018.04.127)
 
 <ins> Under review & preparation</ins>
+
 1.**A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
 **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 
