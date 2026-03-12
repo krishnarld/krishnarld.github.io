@@ -136,7 +136,7 @@ Location specific fatigue life of additively manufactured metal (Note: Purpose o
 
 <ins> **Publication**</ins>
 
-<ins> Published</ins>
+<ins> **Published**</ins>
 
 1. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \|2026 \|[Link to the article](https://doi.org/10.1016/j.cma.2026.118789)
 2. **A review of artificial intelligence (AI)-based applications to nanocomposites** \| *Composites Part A: Applied Science and Manufacturing* \| 2025 \| [Link to the article](https://doi.org/10.1016/j.compositesa.2025.109027)
@@ -156,7 +156,7 @@ Location specific fatigue life of additively manufactured metal (Note: Purpose o
 16. **A passive UHF RFID tag for wireless fracture toughness measurement on metals** \| *2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW)* \| 2019 \| [Link to the article](https://doi.org/10.1109/IMICPW.2019.8933255)
 17. **Effect of strain rate on tensile and fracture behavior of ultrafine-grained Al6061 processed through cryorolling and warm rolling** \| *Materials Today: Proceedings* \| 2018 \| [Link to the article](https://doi.org/10.1016/j.matpr.2018.04.127)
 
-<ins> Under review & preparation</ins>
+<ins> **Under review & preparation**</ins>
 
 1.**A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
 **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
