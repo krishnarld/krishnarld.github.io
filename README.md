@@ -10,7 +10,7 @@ I am a mechanical engineer specializing in Computational Mechanics, Battery Safe
 ## 📫 Connect with Me
 * **[LinkedIn](https://www.linkedin.com/in/krishnaprasath17/)**
 
-## Navigation
+## Research projects
 
 - [Battery Safety](#battery-safety)
 - [Composite Structure Analysis](#composite-structure-analysis)
@@ -19,9 +19,6 @@ I am a mechanical engineer specializing in Computational Mechanics, Battery Safe
 - [Material Design](#material-design)
 - [Patents & Publication](#publications)
 
-
-## Below are brief descriptions of my research projects
-Below are descriptions of the major research projects I have worked on, including associated publications
 
 ## Battery Safety
 <ins>**Enhancing EV Battery Safety via Mechanical Testing, FEA analysis, and Machine Learning**</ins>
