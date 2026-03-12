@@ -15,11 +15,21 @@ Below are descriptions of the major research projects I have worked on, includin
 
 <ins>**Enhancing EV Battery Safety via Mechanical Testing, FEA analysis, and Machine Learning**</ins>
 
-This research tackles the critical challenge of Li-ion battery safety by merging experimental mechanics, high-fidelity FE simulations, and machine learning. By subjecting prismatic cells and jellyrolls to diverse impact conditions, we uncover the hidden energy-absorption roles of internal components. These findings power an AI-driven framework that optimizes protective sandwich structures, significantly advancing the crashworthiness and reliability of next-generation electric vehicles.
+This research tackles the critical challenge of Li-ion battery safety by merging experimental mechanics, high-fidelity FE simulations, and machine learning. By subjecting prismatic cells and jellyrolls to diverse impact conditions, we uncover the hidden energy-absorption roles of individual components. These findings help design and optimizes a protective sandwich structures, significantly advancing the crashworthiness and reliability of next-generation electric vehicles. 
 
 ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
 
-Figure 1: Mechanical abuse investigation of battery module
+Mechanical abuse investigation of battery module
+
+This work also involve multiphysics modeling of batteries. Below animation shows the impact on pouch battery with a spherical ball, replicating impact of a projectile. We can notice the evolution of stress and temperature of the battery over the time.
+
+![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0)
+
+
+![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef)  ![JR_MP_temp](https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1)
+
+
+
 
 <ins>Outputs from this work:</ins>
 1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
