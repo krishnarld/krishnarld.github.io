@@ -28,7 +28,7 @@ Figure 1: Mechanical abuse investigation of battery module
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
 5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
 
-<ins>**Energy absorption of auxetic metamaterials**</ins>
+<ins>**Dynamic excitation of composite wheel**</ins>
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
 
