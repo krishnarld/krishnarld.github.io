@@ -30,16 +30,12 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 <!-- ![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="600">
+  <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="300">
+  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="300">
+  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="300">
+  
 </p>
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="450">
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="450">
-</p>
 
 <!-- ![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef) -->
 
@@ -65,29 +61,35 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 
 <!-- ![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1) -->
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="450">
-</p>
-
-<p align="left">
   <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
-</p>
-
-<p align="left">
   <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
 </p>
+
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
 This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work focuses on high-performance hybrid tube concept and developing fracture locus model for 3D-printed Al10SiMg for enabling precise prediction of structural deformation under dynamic loads.
 
-![E_V](https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e)
+<!-- ![E_V](https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e) -->
 
-![Sim](https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001)
+<!-- ![Sim](https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001) -->
 
-![tube_exp](https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="450">
+  <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="450">
+</p>
 
-![tube_sim](https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3)
+
+<!-- ![tube_exp](https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532) -->
+
+<!-- ![tube_sim](https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3) -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="450">
+  <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="450">
+</p>
 
 
 <ins>Outputs from this work:</ins>
@@ -105,7 +107,11 @@ This research advances the design of additively manufactured auxetic structures,
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 2). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 
-![DT](https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa)
+<!-- ![DT](https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa) -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa" width="600">
+</p>
 
 
 Figure 2: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
@@ -121,7 +127,11 @@ Figure 2: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the im
 
 Qualifying metal additively manufactured (AM) parts is complicated by process-induced microstructural variations that lead to uneven fatigue performance. This work leverages process-structure modeling to estimate location-specific fatigue life across 3D AM domains. By analyzing nonlocal-averaged Fatigue Indicator Parameters (FIPs) over thousands of loading cycles, we determine the cycle count at which critical thresholds are reached, enabling accurate life prediction for complex AM components.
 
-![CP](https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18)
+<!-- ![CP](https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18) -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18" width="600">
+</p>
 
 
 Figure 3: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
