@@ -23,9 +23,9 @@ This work investigates Li-ion battery safety by combining mechanical testing, hi
   <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="450">
 </p>
 
-Mechanical abuse investigation of battery module
+<ins>**Multiphysics modeling of pouch battery**</ins>
 
-This work also involve multiphysics modeling of batteries. Below animation shows the impact on pouch battery with a spherical ball, replicating impact of a projectile. We can notice the evolution of stress and temperature of the battery over the time.
+Below animation shows the impact on pouch battery with a spherical ball, replicating impact of a projectile. Notice the evolution of stress and temperature of the battery over the time.
 
 <!-- ![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0) -->
 
