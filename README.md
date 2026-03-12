@@ -17,7 +17,8 @@ Below are descriptions of the major research projects I have worked on, includin
 
 This work investigates Li-ion battery safety by combining mechanical testing, high-fidelity finite element simulations (structural and multiphysics), and machine learning. Based on the experimental and FEA analyis of battery module, we quantify the energy-absorption behavior of individual components. The results were used to the design a protective sandwich structures to improve crashworthiness and structural reliability in next-generation electric vehicles.
 
-![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)
+<!-- ![x_z_slow_deformation](https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef)> -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="600">
 </p>
@@ -26,10 +27,23 @@ Mechanical abuse investigation of battery module
 
 This work also involve multiphysics modeling of batteries. Below animation shows the impact on pouch battery with a spherical ball, replicating impact of a projectile. We can notice the evolution of stress and temperature of the battery over the time.
 
-![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0)
+<!-- ![Assem](https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0) -->
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="600">
+</p>
 
-![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef)  ![JR_MP_temp](https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="450">
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="450">
+</p>
+
+<!-- ![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef) -->
+
+<!-- ![JR_MP_temp](https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1) -->
 
 
 
@@ -45,12 +59,23 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
 
-![Wheel](https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f)
+<!-- ![Wheel](https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f) -->
 
-![Wheel](https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d)
+<!-- ![Wheel](https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d) -->
 
-![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1)
+<!-- ![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1) -->
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="450">
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
+</p>
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
