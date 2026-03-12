@@ -34,10 +34,9 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 
 ![Wheel](https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f)
 
-![Wheel](https://github.com/user-attachments/assets/b34e0e81-9629-4957-807a-e912b6d738cd) 
+![Wheel](https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d)
 
-![Wheel1](https://github.com/user-attachments/assets/c35f9af4-f225-4381-af53-f95f6dd89d55)
-
+![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1)
 
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
