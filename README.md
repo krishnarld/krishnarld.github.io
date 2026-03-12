@@ -38,7 +38,7 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
 5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
 
-<ins>**Dynamic excitation of composite wheel**</ins>
+<ins>**Dynamic loading of composite wheel**</ins>
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
 
@@ -51,7 +51,7 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
-This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work proposes a high-performance hybrid tube concept and validates a fracture locus model for 3D-printed Al10SiMg, enabling precise prediction of structural deformation under dynamic loads.
+This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work focuses on high-performance hybrid tube concept and developing fracture locus model for 3D-printed Al10SiMg for enabling precise prediction of structural deformation under dynamic loads.
 
 ![E_V](https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e)
 
