@@ -13,11 +13,11 @@ I am a mechanical engineer specializing in Computational Mechanics, Battery Safe
 ## Navigation
 
 - [Battery Safety](#battery-safety)
-- [Composite Structure](#composite-structure)
+- [Composite Structure Analysis](#composite-structure-analysis)
 - [Metamaterials](#metamaterials)
 - [Digital Twins](#digital-twins)
 - [Material Design](#material-design)
-- [Publications](#publications)
+- [Patents & Publication](#publications)
 
 
 ## Below are brief descriptions of my research projects
@@ -33,6 +33,7 @@ This work investigates Li-ion battery safety by combining mechanical testing, hi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="450">
 </p>
+Deformation of battery module analysed through experiment and FEA analysis
 
 <ins>**Multiphysics modeling of pouch battery**</ins>
 
@@ -43,28 +44,19 @@ Below animation shows the impact on pouch battery with a spherical ball, replica
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="450">
 </p>
+Pouch battery subjected to spherical projectile
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="450">
   <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="450">
 </p>
-
+Stress (left) and temperature (right) evolution in pouch cell under projectile impact
 
 <!-- ![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef) -->
 
 <!-- ![JR_MP_temp](https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1) -->
 
-
-
-
-<ins>Outputs from this work:</ins>
-1. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
-2. **Impact response of prismatic Li-ion battery cells** \| *International Journal of Impact Engineering* \|2022 \| [Link to the article](https://doi.org/10.1016/j.ijimpeng.2022.104352)
-3. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
-4. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
-5. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
-
-## Composite Safety
+## Composite Structure Analysis
 <ins>**Dynamic loading of composite wheel**</ins>
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
@@ -78,12 +70,12 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 <p align="center">
   <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="500">
 </p>
-
+Composite wheel assembly
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
   <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
 </p>
-
+Dynamic impact of composite wheel assembly
 
 
 ## Metamaterials
@@ -99,7 +91,7 @@ This research advances the design of additively manufactured auxetic structures,
   <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="450">
   <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="450">
 </p>
-
+Dynamic compression of metamaterial (experiemnt and FEA analysis(
 
 <!-- ![tube_exp](https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532) -->
 
@@ -109,23 +101,13 @@ This research advances the design of additively manufactured auxetic structures,
   <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="450">
   <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="450">
 </p>
-
-
-<ins>Outputs from this work:</ins>
-1. Patent - **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
-2. **Fracture locus of additively manufactured AlSi10Mg** \| *Thin-Walled Structures* \| 2023 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.110460)
-3. **Mechanical response of a novel hybrid tube composed of an auxetic outer layer** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2021.108649)
-4. **Stiffened star-shaped auxetic structure with tri-directional symmetry** \| *Composite Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2021.114773)
-5. **Quasi-static compression performance of material extrusion enabled re-entrant diamond auxetic metamaterial: Fabrication, tuning geometrical parameters, and fiber reinforcements** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.109550)
-6. **Numerical study of a re-entrant diamond structure under dynamic compression** \| *IOP Conference Series: Materials Science and Engineering* \| 2021 \| [Link to the article](https://iopscience.iop.org/article/10.1088/1757-899X/1067/1/012109/meta)
-7. **Quasi-static and dynamic compression behaviors of a novel auxetic structure** \| *Composite Structures* \|2020 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2020.112853)
-8. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
+Experimental and FEA results of dynamic metamaterial tube
 
 
 ## Digital Twins
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
-Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown Figure 2). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP, as shown in Figure 2). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
+Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown below). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
 
 
 <!-- ![DT](https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa) -->
@@ -133,16 +115,8 @@ Digital twins are modeled to represent the state of any physical system; they sh
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa" width="600">
 </p>
+Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
 
-
-Figure 2: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
-
-
-<ins>Outputs from this work:</ins>
-1. **A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
-
-   *Note: GitHub repo for the code will be made available once the article is published.*
-2. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \| Under review
 
 ## Material Design
 <ins>**Framework for rapid qualification of additively manufactured parts**</ins>
@@ -154,26 +128,38 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18" width="600">
 </p>
+Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
 
 
-Figure 3: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
+## Patents & Publications
 
-<ins>Outputs from this work:</ins>
-1. **A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
-2. Conference presentation at **USNCCM 2025 and TMS 2024**
+<ins> **Patents**</ins>
+1. **Reusable passive RFID strain sensor for structural health monitoring** \| *Granted* \| IN 449495
+2. **Hybrid tube with auxetic outer layer** \| *Granted* \| IN 528465
 
-
-
-<ins> **Other projects**</ins>
-
-Apart from the above projects, I have worked on other projects. 1) Designing RFID sensors for strain sensing of launch vehicle fuel tanks, 2) Investigating the effect of strain rate on tensile strength of Ultrafine-grained metals, etc.
-
-<ins>Outputs from these works:</ins>
-1. Patent - **Reusable passive RFID strain sensor for structural health monitoring** \| *Granted* \| IN 449495
+<ins> **Publication**</ins>
+<ins> Published</ins>
+1. **Derivative-informed training data for improving prediction accuracy of symbolic regression models** \| *Computer Methods in Applied Mechanics and Engineering* \|2026 \|[Link to the article](https://doi.org/10.1016/j.cma.2026.118789)
 2. **A review of artificial intelligence (AI)-based applications to nanocomposites** \| *Composites Part A: Applied Science and Manufacturing* \| 2025 \| [Link to the article](https://doi.org/10.1016/j.compositesa.2025.109027)
-3. **Reusable passive wireless RFID sensor for strain measurement on metals** \| *IEEE Sensors Journal* \| 2018 \| [Link to the article](https://doi.org/10.1109/JSEN.2018.2831903)
-4. **A passive UHF RFID tag for wireless fracture toughness measurement on metals** \| *2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW)* \| 2019 \| [Link to the article](https://doi.org/10.1109/IMICPW.2019.8933255)
-5. **Effect of strain rate on tensile and fracture behavior of ultrafine-grained Al6061 processed through cryorolling and warm rolling** \| *Materials Today: Proceedings* \| 2018 \| [Link to the article](https://doi.org/10.1016/j.matpr.2018.04.127)
+3. **Simulation of crush behavior and energy absorption of vehicle Li-Ion battery module with prismatic cells** \| *SAE Technical Paper* \| 2024 \| [Link to the article](https://doi.org/10.4271/2024-01-2492)
+4. **Dynamic Indentation of Prismatic Li-Ion battery cells** \| *Springer Proceedings in Materials* \| 2024 \| [Link to the article](https://doi.org/10.1007/978-981-99-6030-9_15)
+5. **Testing and modeling of vehicle Li-ion battery module with prismatic cells under abuse conditions** \| *Energies* \| 2023 \| [Link to the article](https://doi.org/10.3390/en16031055)
+6. **Impact response of prismatic Li-ion battery cells** \| *International Journal of Impact Engineering* \|2022 \| [Link to the article](https://doi.org/10.1016/j.ijimpeng.2022.104352)
+7. **Crash safety design of Lithium-ion vehicle battery module with Machine learning** \| *SAE International Journal of Advances and Current Practices in Mobility* \|2022 \| [Link to the article](https://doi.org/10.4271/2022-01-0863)
+8. **Fracture locus of additively manufactured AlSi10Mg** \| *Thin-Walled Structures* \| 2023 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.110460)
+9. **Mechanical response of a novel hybrid tube composed of an auxetic outer layer** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2021.108649)
+10. **Stiffened star-shaped auxetic structure with tri-directional symmetry** \| *Composite Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2021.114773)
+11. **Quasi-static compression performance of material extrusion enabled re-entrant diamond auxetic metamaterial: Fabrication, tuning geometrical parameters, and fiber reinforcements** \| *Thin-Walled Structures* \| 2022 \| [Link to the article](https://doi.org/10.1016/j.tws.2022.109550)
+12. **Numerical study of a re-entrant diamond structure under dynamic compression** \| *IOP Conference Series: Materials Science and Engineering* \| 2021 \| [Link to the article](https://iopscience.iop.org/article/10.1088/1757-899X/1067/1/012109/meta)
+13. **Quasi-static and dynamic compression behaviors of a novel auxetic structure** \| *Composite Structures* \|2020 \| [Link to the article](https://doi.org/10.1016/j.compstruct.2020.112853)
+14. **Dynamic mechanical performance of 3D re-entrant structure** \| *Mechanics of Materials* \| 2020 \| [Link to the article](https://doi.org/10.1016/j.mechmat.2020.103503)
+15. **Reusable passive wireless RFID sensor for strain measurement on metals** \| *IEEE Sensors Journal* \| 2018 \| [Link to the article](https://doi.org/10.1109/JSEN.2018.2831903)
+16. **A passive UHF RFID tag for wireless fracture toughness measurement on metals** \| *2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW)* \| 2019 \| [Link to the article](https://doi.org/10.1109/IMICPW.2019.8933255)
+17. **Effect of strain rate on tensile and fracture behavior of ultrafine-grained Al6061 processed through cryorolling and warm rolling** \| *Materials Today: Proceedings* \| 2018 \| [Link to the article](https://doi.org/10.1016/j.matpr.2018.04.127)
+
+<ins> Under review & preparation</ins>
+1.**A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications** \| *Journal of Computational Physics* \| Under review \| [Link to preprint](https://doi.org/10.48550/arXiv.2511.00366)
+**A Framework to Predict Intrabuild Location-specific Fatigue Properties in Additively Manufactured Metals** \| Under preparation
 
 
 ## Awards and Honors
