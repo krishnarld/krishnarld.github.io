@@ -31,8 +31,8 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="300">
-  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="300">
-  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="300">
+  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="500">
+  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="500">
   
 </p>
 
@@ -62,10 +62,12 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 <!-- ![Wheel1](https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="450">
-  <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
-  <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
+  <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="300">
+  <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="500">
+  <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="500">
 </p>
+
+
 
 
 <ins>**Energy absorption of auxetic metamaterials**</ins>
@@ -77,8 +79,8 @@ This research advances the design of additively manufactured auxetic structures,
 <!-- ![Sim](https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="450">
-  <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="450">
+  <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="500">
+  <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="500">
 </p>
 
 
@@ -87,8 +89,8 @@ This research advances the design of additively manufactured auxetic structures,
 <!-- ![tube_sim](https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="450">
-  <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="450">
+  <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="500">
+  <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="500">
 </p>
 
 
