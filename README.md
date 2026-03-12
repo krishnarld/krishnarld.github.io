@@ -1,6 +1,6 @@
 # Postdoctoral researcher, University of Utah, Salt Lake City, UT.
 
-I am a mechanical engineer specializing in Computational Mechanics, Battery Safety design, Experimental testing, and Digital Twins. My work integrates experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with numerical analysis to design advanced safety systems for critical safety system. Also, I develop ML algorithms and Digital Twin frameworks for real-time health monitoring of physical assets.
+I am a mechanical engineer specializing in Computational Mechanics, Battery Safety design, Experimental testing, and Digital Twins (ML). My work combines experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with FEA and data-driven model to design safer and durable mechanical systems. Also, I develop ML algorithms for Digital Twin frameworks to predict health of physical assets.
 
 ## Education
 * **PhD** - Indian Institute of Technology Madras, Chennai, India & Swinburne University of Technology, Melbourne, Australia
