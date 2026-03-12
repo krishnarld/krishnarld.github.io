@@ -31,9 +31,11 @@ This work also involve multiphysics modeling of batteries. Below animation shows
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="300">
-  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="500">
-  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="500">
-  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="450">
+  <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="450">
 </p>
 
 
