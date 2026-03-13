@@ -13,9 +13,9 @@ I am a mechanical engineer specializing in Computational Mechanics, Battery Safe
 ## Research projects
 
 - [Battery Safety](#battery-safety)
-- [Composite Structure Analysis](#composite-structure-analysis)
-- [Metamaterials](#metamaterials)
-- [Digital Twins](#digital-twins)
+- [Composite Wheel Design](#composite-wheel-design)
+- [Metamaterials Design](#metamaterials-design)
+- [Digital Twins for Crack Monitoring](#digital-twins-for-crack-monitoring)
 - [Material Design](#material-design)
 - [Patents & Publication](#publications)
 
@@ -30,7 +30,7 @@ This work investigates Li-ion battery safety by combining mechanical testing, hi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a5ad49b-51c2-4508-9765-83465aaad0ef" width="450">
 </p>
-Deformation of battery module analysed through experiment and FEA analysis
+Figure: Deformation of battery module analysed through experiment and FEA analysis
 
 <ins>**Multiphysics modeling of pouch battery**</ins>
 
@@ -41,19 +41,19 @@ Below animation shows the impact on pouch battery with a spherical ball, replica
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ceb57f0d-8141-44a1-bdf6-441d0ea5ebc0" width="450">
 </p>
-Pouch battery subjected to spherical projectile
+Figure: Pouch battery subjected to spherical projectile
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef" width="450">
   <img src="https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1" width="450">
 </p>
-Stress (left) and temperature (right) evolution in pouch cell under projectile impact
+Figure: Stress (left) and temperature (right) evolution in pouch cell under projectile impact
 
 <!-- ![JR_MP_stress](https://github.com/user-attachments/assets/fa890e1f-7264-42a7-9d57-6ddea0fbfeef) -->
 
 <!-- ![JR_MP_temp](https://github.com/user-attachments/assets/3ad3d6f0-b49e-4805-85e6-d329d8f559b1) -->
 
-## Composite Structure Analysis
+## Composite Wheel Design
 <ins>**Dynamic loading of composite wheel**</ins>
 
 This project uses composite wheel rim instead of traditional steel rim. The hinge end of the assembly is connected to the vehicle and the moving plate replicates the road excitation. The purpose of the model is predict the stress distribution in the assembly with the objective to optimize the design.
@@ -67,15 +67,15 @@ This project uses composite wheel rim instead of traditional steel rim. The hing
 <p align="center">
   <img src="https://github.com/user-attachments/assets/940ac0de-71f3-455c-a7fa-7554941e616f" width="500">
 </p>
-Composite wheel assembly
+Figure: Composite wheel assembly
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40470a14-8e65-4ee3-8afb-b63b1b86b41d" width="450">
   <img src="https://github.com/user-attachments/assets/d82cc3e8-54bb-4b29-8ed0-293f0c374ce1" width="450">
 </p>
-Dynamic impact of composite wheel assembly
+Figure: Dynamic excitation of composite wheel assembly
 
 
-## Metamaterials
+## Metamaterials Design
 <ins>**Energy absorption of auxetic metamaterials**</ins>
 
 This research advances the design of additively manufactured auxetic structures, with a focus on enhancing energy absorption and accurately predicting failure modes. Through experimental testing and validated finite element modeling, the study introduces a novel "re-entrant diamond" unit cell that achieves 96% higher specific energy absorption than standard designs. Additionally, the work focuses on high-performance hybrid tube concept and developing fracture locus model for 3D-printed Al10SiMg for enabling precise prediction of structural deformation under dynamic loads.
@@ -88,7 +88,7 @@ This research advances the design of additively manufactured auxetic structures,
   <img src="https://github.com/user-attachments/assets/f71be971-a8c3-4be0-b4d8-1a6744a4fc5e" width="450">
   <img src="https://github.com/user-attachments/assets/998b5828-e719-412f-8608-f302642e2001" width="450">
 </p>
-Dynamic compression of metamaterial (experiemnt and FEA analysis(
+Figure: Dynamic compression of metamaterial (experiemnt and FEA analysis)
 
 <!-- ![tube_exp](https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532) -->
 
@@ -98,10 +98,10 @@ Dynamic compression of metamaterial (experiemnt and FEA analysis(
   <img src="https://github.com/user-attachments/assets/8494edd1-a562-48a6-b339-6c9f5c46a532" width="450">
   <img src="https://github.com/user-attachments/assets/5779f475-3fbb-48a4-a66f-4737b3a541c3" width="450">
 </p>
-Experimental and FEA results of dynamic metamaterial tube
+Figure: Experimental and FEA results of dynamic metamaterial tube
 
 
-## Digital Twins
+## Digital Twins for Crack Monitoring
 <ins>**Derivative-informed ML and its application to digital twin framework**</ins>
 
 Digital twins are modeled to represent the state of any physical system; they should be accurate, rapid, and have the ability to evolve together with the physical twin (Generic schematic of a digital twin is shown below). In this work, higher-order derivatives were incorporated to obtain an accurate model, but this comes at the expense of an increased dataset size. Additionally, to adapt to a specific physical twin, new data obtained from the physical twin must be incorporated into the model without extensive retraining. We address the computational challenges of large data, enabling real-time, dynamic updates as new in-service information becomes available (through dynamic supernodes in sparse GP). We validated the method on an aerospace fatigue crack growth; the approach outperforms traditional static methods, providing a robust and efficient solution for continuous structural health monitoring and predictive maintenance.
@@ -112,11 +112,11 @@ Digital twins are modeled to represent the state of any physical system; they sh
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14377c1f-922f-4b71-a1ce-494ce3540afa" width="600">
 </p>
-Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
+Figure: Illustration of Dynamic Digital Twin workflow (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results can be found in the publication below)
 
 
 ## Material Design
-<ins>**Framework for rapid qualification of additively manufactured parts**</ins>
+<ins>**Framework for rapid qualification of additively manufactured parts for material design**</ins>
 
 Qualifying metal additively manufactured (AM) parts is complicated by process-induced microstructural variations that lead to uneven fatigue performance. This work leverages process-structure modeling to estimate location-specific fatigue life across 3D AM domains. By analyzing nonlocal-averaged Fatigue Indicator Parameters (FIPs) over thousands of loading cycles, we determine the cycle count at which critical thresholds are reached, enabling accurate life prediction for complex AM components.
 
@@ -125,7 +125,7 @@ Qualifying metal additively manufactured (AM) parts is complicated by process-in
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a06dfdb2-1e78-4092-b5e7-378d6a4dcf18" width="600">
 </p>
-Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
+Figure: Location specific fatigue life of additively manufactured metal (Note: Purpose of the image is to demonstrate overarching purpose of the framework and it was generated with the help of Gen AI. Detailed results will be made available in the publication)
 
 
 ## Patents & Publications
