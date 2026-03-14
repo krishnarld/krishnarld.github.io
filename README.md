@@ -1,4 +1,4 @@
-# Krishna Prasath Logakannan, Salt Lake City, UT.
+# Krishna Prasath Logakannan
 
 I am a mechanical engineer specializing in Computational Mechanics, Battery Safety design, Experimental testing, and Digital Twins (ML). My work combines experimental characterization (quasi-static, high strain-rate, and fatigue/fracture) with FEA and data-driven model to design safer and durable mechanical systems. Also, I develop ML algorithms for Digital Twin frameworks to predict health of physical assets.
 
